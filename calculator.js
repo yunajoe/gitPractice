@@ -10,6 +10,6 @@ function multiply(a, b) {
   return a * b;
 }
 
-function divide(a, b) {
+function divide_premium(a, b) {
   return a / b;
 }
